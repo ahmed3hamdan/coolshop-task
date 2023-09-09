@@ -19,7 +19,7 @@ Run the following command to build the project for production:
 yarn build
 ```
 
-### Preview Project
+### Previewing Project
 
 Run the following command to preview the project:
 
